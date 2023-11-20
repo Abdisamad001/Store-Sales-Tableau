@@ -1,0 +1,1 @@
+This repository contains a Tableau dashboard for analyzing and visualizing store sales data. The dashboard provides a comprehensive overview of sales performance, trends, and key metrics for a retail store or chain of stores. It is designed to help store managers, executives, and analysts gain insights into sales performance and make data-driven decisions.
